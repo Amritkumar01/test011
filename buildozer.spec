@@ -1,6 +1,6 @@
 [app]
 
-# (str) Title of your application
+# (str) Title of your application 
 title = SampleApp
 
 # (str) Package name
